@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K Karthik</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Bird Species Identification using CNN**
+- 🔭 I’m currently project on **Bird Species Identification using CNN**
 
 - 🌱 I’m currently learning **Data Analysis in Masai School**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kongarikarthik2000@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66aba8146e6b499ee3542876](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66aba8146e6b499ee3542876)
+- 📄 Know about my resume [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66aba8146e6b499ee3542876](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66aba8146e6b499ee3542876)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
