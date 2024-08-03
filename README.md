@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm K Karthik</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-loser&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-loser" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-loser" alt="karthik-loser" /></a> </p>
 
 - 🔭 I’m currently working on **Bird Species Identification using CNN**
 
